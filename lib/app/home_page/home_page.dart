@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
         children: const [
           Padding(
             padding: EdgeInsets.all(8.0),
-            child: Text("Hey"),
+            child: Text("Sentence of the day"),
           ),
           VerticalSpacer(height: 20.0),
           Quote(),

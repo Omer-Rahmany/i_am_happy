@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "410292658295",
+    "project_id": "i-am-happy-b3fbf",
+    "storage_bucket": "i-am-happy-b3fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410292658295:android:54d5f7d6d08ab2f0fb6672",
+        "android_client_info": {
+          "package_name": "com.appsbw.i_am_happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410292658295-7ortm36k9ivnt8alrbnfn9ipd7pll2so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsbw.i_am_happy",
+            "certificate_hash": "80d2fcf57d8b4ebec7c39906d284a3e256604552"
+          }
+        },
+        {
+          "client_id": "410292658295-ildmk1f7kj9fp2jhjaicqg5e9imk87i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABuNF4TwHY9MhuQFIFXmHr_VsBvhd2lYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410292658295-ildmk1f7kj9fp2jhjaicqg5e9imk87i7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410292658295-uf7kve6paaaplb7c961lb1ldb5ticmib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsbw.iAmHappy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

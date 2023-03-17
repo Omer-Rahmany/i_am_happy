@@ -1,16 +1,7 @@
 # i_am_happy
 
-A new Flutter project.
+A Flutter mobile and web application using ChatGPT to explore motivational one liners and their historical background. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Important Links
+- [Trello](https://trello.com/invite/b/GPlka9xd/ATTI753b3ff27bcc29bf2f7b1e615bd4dafe414894EC/i-am-happy-application)
+- [Figma](https://www.figma.com/file/xYT2bRzbZBX0ExvtDG3ssr/I-Am-Happy?node-id=2%3A732&t=SuLE05hoyES0HEdG-1)
